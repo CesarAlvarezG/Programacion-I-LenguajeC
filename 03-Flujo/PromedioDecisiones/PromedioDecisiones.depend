@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511225106 source:c:\users\cesar\desktop\programacioni\programacion-i-lenguajec\03-flujo\promediodecisiones\main.c
+	<stdio.h>
+	<stdlib.h>
+
